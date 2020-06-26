@@ -2,7 +2,7 @@
 
 This repository contains code and data to reproduce Callaghan et al. 2020. The raw eBird data are not included here, but the summarized/aggregated urban scores are included for 256 species of European breeding birds. The R information used at the time of analysis is as follows:
 
-> sessionInfo()
+sessionInfo()
 R version 3.5.0 (2018-04-23)
 Platform: x86_64-w64-mingw32/x64 (64-bit)
 Running under: Windows >= 8 x64 (build 9200)
